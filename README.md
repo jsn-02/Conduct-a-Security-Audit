@@ -33,4 +33,5 @@ To conduct a comprehensive internal security audit for Botium Toys to identify a
 
 ### Step 2: Conduct the Audit
 
-[Controls and Compliance Checklist](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16281064/Controls.and.Compliance.Checklist.pdf)
+> [!IMPORTANT]
+> [Controls and Compliance Checklist](https://docs.google.com/viewer?url=https://github.com/user-attachments/files/16281064/Controls.and.Compliance.Checklist.pdf)
