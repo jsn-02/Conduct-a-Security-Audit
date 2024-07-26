@@ -22,8 +22,8 @@ To conduct a comprehensive internal security audit for Botium Toys to identify a
 
 ### Tools Used
 
-- NIST Cybersecurity Framework (CSF) guidelines
-- Controls and compliance checklist
+<img src="https://img.shields.io/badge/-NIST%20Cybersecurity%20Framework-003A55?&style=for-the-badge&logo=nist&logoColor=white" />
+<img src="https://img.shields.io/badge/-Controls%20and%20Compliance%20Checklist-0072C6?&style=for-the-badge&logo=check-circle&logoColor=white" />
 
 ## Steps
 
